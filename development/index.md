@@ -40,6 +40,8 @@ Create your own visualization in order to answer the research question. Your vis
 * The research questions you decided upon should be clearly stated, and answered.
 * The code that is used to create the visualization should be well designed, clear, and neatly formatted. Use functions, choose useful names for your variables, prevent code repetition, place comments, etc.
 
+_If any other data than the file we provided you with is required to run your visualisation, be sure to include the source so we can download it!_
+
 ## Analysis
 
-After you've created your figure, reflect on the figure your script creates. Are all elements present in the figure? Is there something you would do different if you were going to redesign your visualization? Think about the consequences of the design choices you have made. Most important: are you able to clearly answer your research questions? Make sure to clearly state your answers in your notebook.
+After you've created your figure, reflect on the figure your script creates. Are all elements present in the figure? Is there something you would do different if you were going to redesign your visualization? Think about the consequences of the design choices you have made. Most important: are you able to clearly answer your research questions? **Make sure to clearly state your answers in your notebook.**
