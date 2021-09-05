@@ -12,7 +12,7 @@ The data set, taken from [Gapminder.org](https://www.gapminder.org/), contains i
 
 Many medical and social advances have been made since the 60s and the goal of your visualization will be to show the effect of this in an informative way. More specifically, you would like to answer the following question: "How did life expectancy and fertility change between 1964 - 2013 for different countries and continents?".
 
-One way to do this is by creating an interactive plot that is able to show how fertility is related to life expectancy for every country, for every year. With this visualization you can show in which countries people live long lives in small families or in contrast, short lives in large families. In addition, you might also want to add elements like population size and regions in your visualization, or even find a world map to display the data on.
+One way to do this is by creating an interactive plot that is able to show how fertility is related to life expectancy for every country, for every year. With this visualization you can show in which countries people live long lives in small families, or in contrast, short lives in large families. In addition, you might also want to add elements like population size and regions in your visualization, or even find a world map to display the data on.
 
 Some smaller research questions you might be able to answer with this visualization are:
 
@@ -22,7 +22,7 @@ Some smaller research questions you might be able to answer with this visualizat
 
 ## Some readings
 
-Before you start creating your visualization, take some time to think about how you would like to design your visualization. What exactly would you like to show and how are you going to show this? What shapes, colors, axes will you use? How do you choose the range of the axes? Below you can find some readings that might be helpful in making your decisions:
+Before you start creating your visualization, take some time to think about how you would like to design your visualization. What exactly would you like to show and how are you going to show this? What shapes, colors, and axes will you use? How do you choose the range of the axes? Below you can find some readings that might be helpful in making your decisions:
 
 * [Visual encoding](https://www.targetprocess.com/articles/visual-encoding/), Michael Dubakov
 * [Learning to see](https://ia.net/topics/learning-to-see),  Oliver Reichenstein
@@ -44,4 +44,4 @@ _If any other data than the file we provided you with is required to run your vi
 
 ## Analysis
 
-After you've created your figure, reflect on the figure your script creates. Are all elements present in the figure? Is there something you would do different if you were going to redesign your visualization? Think about the consequences of the design choices you have made. Most important: are you able to clearly answer your research questions? **Make sure to clearly state your answers in your notebook.**
+After you've created your figure, reflect on the figure your script creates. Are all elements present in the figure? Is there something you would do differently if you were going to redesign your visualization? Think about the consequences of the design choices you have made. Most important: are you able to clearly answer your research questions? **Make sure to clearly state your answers in your notebook.**
