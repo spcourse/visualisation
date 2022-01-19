@@ -4,7 +4,7 @@ In this assignment, you'll create a visualization of the development in differen
 
 ## Acquiring data
 
-* You can download the data [here](Gapminder.csv).
+* You can download the data [https://github.com/spcourse/visualisation/raw/main/development/gapminder.csv](Gapminder.csv).
 
 The data set, taken from [Gapminder.org](https://www.gapminder.org/), contains information about the population size, life expectancy at birth (years), and the total fertility (children per woman) of 244 countries per year from 1964 - 2013. The region of every country (e.g. South Asia, Sub-Saharan-Africa, etc.) is also provided.
 
